@@ -1,0 +1,23 @@
+=============Computer Bazar==============
+1. Dell(Rs: 30000)  2. Toshiba(Rs: 40000)  3. HP(Rs: 50000) 
+// enter choice
+// enter quantity
+
+// delivery option
+// 1. home delivery(1000)
+// 2. self pickup(0)
+
+// packing option
+// 1. gift packing(5000)
+// 2. normal packing(2000)
+
+// country option
+// 1. india(13%)
+// 2. Nepal(0)
+// 3. china(13%)
+
+// total amount
+// product name
+// quantity
+// tax amount
+// grand total
